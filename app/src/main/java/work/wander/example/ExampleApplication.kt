@@ -1,4 +1,4 @@
-package work.wander
+package work.wander.example
 
 import android.app.Application
 import androidx.hilt.work.HiltWorkerFactory
